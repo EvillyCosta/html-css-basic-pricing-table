@@ -1,5 +1,7 @@
 # HTML CSS Basic Pricing Table
 
+[Link para visualização](https://evillycosta.github.io/html-css-basic-pricing-table/)
+
 ![initial page](https://i.pinimg.com/originals/2e/23/17/2e2317812355d499a0410d7cf0977e96.png)
 
 ## Descrição do Projeto
